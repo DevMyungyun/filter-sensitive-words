@@ -1,0 +1,3 @@
+words_to_replace = ["Production", "Staging", "Dev"
+                    ]
+original_string = "This is an example sentence. Replace 'example' and 'sentence' with random uppercase letters."
